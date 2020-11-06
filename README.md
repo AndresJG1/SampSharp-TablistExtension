@@ -2,7 +2,7 @@
 
 Example:
 
-```
+```C#
 public void Test(BasePlayer player)
 {
   var dialog = new TablistDialogExtension("Dialog Caption", 2);
